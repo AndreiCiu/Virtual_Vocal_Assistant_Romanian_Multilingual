@@ -13,4 +13,5 @@ In small terms, the program can recognize your speech(Romanian language, can be 
 
 Please read carefully the instructions within comments in the code. The program runs ok in Pycharm and VScode, others maybe but I didn't check. The program runs ok even as a standalone app+when some simple GUI were added.
 
-For any questions or help in the project, please contact me: 'https://www.linkedin.com/in/andrei-ciuca-34b69a21b/'
+I hope I could help.
+For any questions or help in the project, please contact me: 'https://www.linkedin.com/in/andrei-ciuca-34b69a21b/'.
