@@ -17,6 +17,9 @@ Maybe in need for an industry solution or just as a Bachelor project.
 
 In small terms, the program can recognize your speech(Romanian language, can be setup to others)-perform the tasks that are now in the source code(basic things and easy script so it's very fast{the recognition is about 0.96 average} and can be modified easily to add more functions or other modifications)- and reply on the text given correctly in Romanian language(not in basic index voice that reads in English and your response is written in Romanian, also other languages can be setup)
 
+The entire source code can be found in the voice_assistant.py document.
+The voice_index.py is for respond back voice narrator, it goes along with voice_index_config.docx.
+Follow the instruction step by step.
 
 
 Please read carefully the instructions within comments in the code. The program runs ok in Pycharm and VScode, others maybe but I didn't check. The program runs ok even as a standalone app+when some simple GUI were added.
