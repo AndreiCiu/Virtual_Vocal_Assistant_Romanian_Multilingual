@@ -1,7 +1,9 @@
 # Virtual_Vocal_Assistant_Romanian_Multilingual
 Virtual Vocal Assistant in Python for Romanian language, other languages can be setup.
 
-Hello and thank you for taking your time to take a look on my project.
+Welcome to the first virtual vocal assistant in Romanian language at least, by the time I write this, there are no other solutions on the internet, so I guess it's the first.
+
+Thank you for taking your time to take a look on my project.
 
 Without further and due, without losing your precious time, my solution comes into aid for others or industry related where Google assistant or Siri are not available for their language.
 
